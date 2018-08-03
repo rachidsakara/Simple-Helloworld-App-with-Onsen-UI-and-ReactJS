@@ -1,6 +1,6 @@
 # Simple Hellow World Application with Onsen and React JS
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+A simple hello world application using Onsen UI and React JS 
 
 ## Project overview
 
