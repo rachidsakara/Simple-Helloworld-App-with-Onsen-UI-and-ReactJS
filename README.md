@@ -31,11 +31,11 @@ Now that you've installed the Monaca CLI, the next step is to install the node m
 
 To run the project, point your command line interface to the project root folder as always and type the following:
 
-`monan demo`
+`monaca demo`
 
 
 ## Managing Errors
 
-If something doesn’t work will well during the build process, for instance webpack module not found or something similar, all you have to do is typing the following command and it should the trick for you:
+If something doesn’t work well during the build process, for instance webpack module not found or something similar, all you have to do is typing the following command and it should the trick for you:
 
 `monaca reconfigure`
